@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Prajjwal 👋
 
-<!--
-**prajjwalrt/prajjwalrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python, machine learning, and AI application development.
+I'm currently building practical projects and working toward an AI/ML certificate.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Python and SQL
+- Data analysis with pandas
+- Machine learning with scikit-learn
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Project name]** — [One-line description] ([link when ready])
+
+## Current goal
+Build and document two practical AI/ML projects over the next four months.
